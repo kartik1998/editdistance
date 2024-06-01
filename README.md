@@ -2,7 +2,7 @@
 
 - Youtube reference to publish maven packages on github - https://www.youtube.com/watch?v=shUOfbbR3OI
 
-### A sample maven package published on github to calculate the edit distance between two strings. 
+####### A sample maven package published on github to calculate the edit distance between two strings. 
 
 Add this to your pom.xml
 ```
