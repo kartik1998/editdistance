@@ -4,7 +4,7 @@
 
 ###### A sample maven package published on github to calculate the edit distance between two strings. 
 
-Add this to your pom.xml
+###### Add this to your pom.xml
 ```
 <dependency>
   <groupId>com.github.kartik1998</groupId>
@@ -13,7 +13,7 @@ Add this to your pom.xml
 </dependency>
 ```
 
-Please also add the xml block below in your pom.xml file to use the package.
+###### Please also add the xml block below in your pom.xml file to use the package.
 
 ```xml
  <repositories>
